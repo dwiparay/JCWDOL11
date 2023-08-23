@@ -1,0 +1,19 @@
+body {
+    background-color: linear-gradient( :blue, yellow) #FF0000;
+}
+
+h1 {
+    background-color: chartreuse;
+    color:white;
+    font-style: italic;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.box {
+    width: 300px;
+    height: 300px;
+    border:1px solid black;
+    background-image: url("./image.jpeg");
+    background-position: -10px 5px;
+}
